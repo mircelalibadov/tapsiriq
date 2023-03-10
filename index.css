@@ -1,0 +1,27 @@
+body{
+    
+    background-color: chocolate;
+}
+
+.box3{
+    border: 0px;
+    border-radius: 30px;
+    padding:15px 30px;
+    
+    
+}
+
+
+
+
+.box{
+    text-align: center;
+    margin: 150px 20%;
+    color: white;
+}
+
+.box4{
+    border: 1px solid;
+    margin:0px 44% ;
+    
+}
